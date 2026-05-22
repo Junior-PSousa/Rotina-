@@ -1,0 +1,6 @@
+{
+  "name": "Rotina+",
+  "description": "Gerenciador inteligente de serviços diários com geração de payloads para o ecossistema Google.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
